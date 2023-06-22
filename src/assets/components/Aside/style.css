@@ -1,0 +1,17 @@
+aside {
+  background-color: white;
+  padding: 20px;
+  height: fit-content;
+  width: 70%;
+}
+
+aside > img {
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+@media (max-width: 870px) {
+  aside {
+    display: none;
+  }
+}

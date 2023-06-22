@@ -1,0 +1,9 @@
+main > :first-child {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  /*Pourquoi le flex et/ou le width me retrecissent cette div?
+   width: 100%;
+  flex: 4; */
+}

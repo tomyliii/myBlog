@@ -1,0 +1,9 @@
+body {
+  background-color: lightgray;
+  padding: 0 60px;
+}
+@media (max-width: 870px) {
+  body {
+    padding: 0 10px;
+  }
+}

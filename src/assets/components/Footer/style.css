@@ -1,0 +1,11 @@
+footer {
+  background-color: #a9a9a9;
+  text-align: center;
+  padding: 15px 0px;
+  margin-top: 50px;
+}
+
+footer > p > span {
+  font-weight: bold;
+  font-family: sans-serif;
+}
